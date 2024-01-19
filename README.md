@@ -17,7 +17,6 @@
 <h2>Como Acessar</h2>
 <ul>
   <li>Crie uma conexão com o MySql e execute o script "Script.sql" localizado na pasta "Banco".</li>
-  <li>Se necessário, configure a conexão em: <a href="">TccVerdelicias\TccVerdelicias\Lógicas\Conexao.cs</a>.</li>
   <li>Inicialize o projeto.</li>
 </ul>
 

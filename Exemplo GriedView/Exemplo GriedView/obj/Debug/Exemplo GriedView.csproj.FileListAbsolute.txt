@@ -1,0 +1,70 @@
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.Form1.resources
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.Properties.Resources.resources
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.exe.config
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.exe
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.pdb
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.CopyComplete
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.exe
+C:\Users\aluno\Downloads\exemplo gridviw\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.pdb
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.exe.config
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.exe
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.pdb
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.Form1.resources
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.Properties.Resources.resources
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.CopyComplete
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.exe
+C:\Users\aluno\Downloads\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.pdb
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.Properties.Resources.resources
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.GenerateResource.cache
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.exe
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.pdb
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.exe.config
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.exe
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.pdb
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.CopyComplete
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.frm_Livro.resources
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.AssemblyReference.cache
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.frm_Livro.resources
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.GenerateResource.cache
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.exe
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.pdb
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.exe.config
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.exe
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.pdb
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\MySql.Data.dll
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.Properties.Resources.resources
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.CoreCompileInputs.cache
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.CopyComplete
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.frm_Cliente.resources
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.frm_Cliente.resources
+C:\Users\aluno\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.frm_Ocorrência.resources
+C:\Users\joaog\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.frm_Ocorrência.resources
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.exe.config
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.exe
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\Exemplo GriedView.pdb
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\bin\Debug\MySql.Data.dll
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.AssemblyReference.cache
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.frm_Livro.resources
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.frm_Cliente.resources
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.frm_Ocorrência.resources
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo_GriedView.Properties.Resources.resources
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.GenerateResource.cache
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.csproj.CopyComplete
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.exe
+C:\Users\Usuário\Downloads\bd e pweb\Exemplo GriedView\Exemplo GriedView\obj\Debug\Exemplo GriedView.pdb
